@@ -44,6 +44,8 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+[Beee-1_compressed.pdf](https://github.com/user-attachments/files/26186184/Beee-1_compressed.pdf)
+
  
 
 
